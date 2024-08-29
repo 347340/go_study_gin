@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "user": "postgres",
+    "password": "88888888",
+    "dbname": "students",
+    "port": 5432,
+    "sslmode": "disable"
+  }
+}
